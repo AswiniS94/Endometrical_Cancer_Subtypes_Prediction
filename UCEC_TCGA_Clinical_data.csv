@@ -1,0 +1,550 @@
+Diagnosis Age,Cancer Type Detailed,JCCC Stage,History Diabetes,Ethnicity,Fraction Genome Altered,Neoplasm Histologic Grade,Patient Height,History colorectal cancer,History hormol contraceptives use,History menopausal hormone therapy,Prior Cancer Diagnosis Occurence,History tamoxifen use,Hypertension diagnosis,Menopause Status,Mutation Count,Peritoneal washing,Pregncies full term count,Race Category,Surgical Margin Resection Status,Surgical approach at diagnosis,TMB (nonsynonymous),Tumor invasion percent,Patient Weight
+59,EC,Stage III,NO,NOT HISPANIC OR LATINO,0.3311,G2,157,NO,Never Used,No,Yes,Never Used,NO,Post,,[Not Evaluated],2,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,280,71
+54,UEC,Stage I,NO,NOT HISPANIC OR LATINO,0.0341,G1,162,NO,Never Used,No,No,Never Used,NO,Post,,negative,1,BLACK OR AFRICAN AMERICAN,R0,open,,,76
+69,UEC,Stage IA,NO,NOT HISPANIC OR LATINO,0.6903,G2,158,NO,,,No,,YES,Post,,,2,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,,,98
+51,UEC,Stage IIIA,YES,NOT HISPANIC OR LATINO,0.0581,G2,162,NO,,,No,Never Used,NO,,,,0,BLACK OR AFRICAN AMERICAN,R0,open,,50,86
+67,USC/UPSC,Stage IA,,NOT HISPANIC OR LATINO,0.0001,G3,168,,,,No,,,Post,,,,WHITE,R0,open,,10,59
+57,USC/UPSC,Stage IIIB,,NOT HISPANIC OR LATINO,0.3729,G3,152,,,,No,,,Post,,,,ASIAN,R0,open,,,60
+61,USC/UPSC,Stage IIIC2,,,,G3,165,,,,No,,,Post,28,,,BLACK OR AFRICAN AMERICAN,R0,open,0.933333333,50,64
+73,USC/UPSC,Stage IB,,,0.2308,G3,160,,,,No,,,Post,99,negative,,BLACK OR AFRICAN AMERICAN,R0,open,3.266666667,,48
+79,UEC,Stage IB,,,0.0341,G3,172,,,,No,,,Post,203,negative,,WHITE,R0,open,6.8,70,82
+67,UEC,Stage IIIC2,,NOT HISPANIC OR LATINO,0.0391,G3,170,,,,No,,,Post,222,,,WHITE,R0,open,7.366666667,46,90
+65,UEC,Stage IB,,,0.0346,G3,165,,,,No,,,Post,514,,,WHITE,R0,open,17,,122
+75,UEC,Stage IA,,,0.0046,G2,163,,,,No,,,Post,3,negative,,WHITE,R0,open,0.1,,74
+38,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.1421,G2,155,,,,No,,,Pre,25,,,ASIAN,R0,open,0.833333333,,57
+76,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0998,G1,160,,,,No,,,Post,,,,BLACK OR AFRICAN AMERICAN,R0,open,,10,64
+57,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0038,G3,163,,,,No,,,Post,303,,,WHITE,R0,open,10.13333333,33,55
+63,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0439,G2,168,,,,Yes,,,Post,198,,,WHITE,R0,open,6.6,19,66
+44,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.4758,G2,163,,,,No,,,Post,63,,,WHITE,R0,open,2.166666667,0,115
+53,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0002,G1,160,,,,Yes,,,Post,33,,,WHITE,R0,open,1.1,49,97
+65,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.557,G1,164,,,,No,,,Post,45,,,WHITE,R0,open,1.5,56,68
+58,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0001,G1,160,,,,No,,,Post,1251,,,ASIAN,R0,open,41.46666667,,60
+76,UEC,Stage IB,,NOT HISPANIC OR LATINO,0,G1,150,,,,No,,,Post,51,,,WHITE,R0,open,1.733333333,50,57
+69,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.3353,G2,177,,,,No,,,Post,,,,BLACK OR AFRICAN AMERICAN,R0,open,,10,88
+58,UEC,Stage IA,,,0.1123,G1,160,,,,No,,,Post,41,,,WHITE,R0,open,1.366666667,18,95
+67,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.2282,G1,158,,,,No,,,Post,42,negative,,WHITE,R0,open,1.4,,63
+46,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0502,G3,142,,,,No,,,Post,209,,,ASIAN,R0,open,6.866666667,7,49
+53,UEC,Stage IA,,,0.0299,G2,164,,,,No,,,Post,32,,,WHITE,R0,open,1.066666667,10,108
+64,USC/UPSC,Stage IIIC1,,HISPANIC OR LATINO,0.1466,G3,157,,,,No,,,Post,33,,,WHITE,R0,open,1.1,82,68
+55,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.3529,G2,165,,,,No,,,Post,40,,,WHITE,R0,open,1.333333333,40,136
+81,UEC,Stage IB,,NOT HISPANIC OR LATINO,0,G2,160,,,,No,,,Post,74,,,WHITE,R0,open,2.4,57,62
+51,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0465,G2,163,,,,No,,,Post,36,,,WHITE,R0,open,1.2,49,145
+68,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0018,G2,155,,,,No,,,Post,71,,,WHITE,R0,open,2.366666667,75,113
+64,UEC,Stage IB,,NOT HISPANIC OR LATINO,,G2,163,,,,No,,,Post,54,,,WHITE,R0,open,1.8,64,86
+74,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0813,G3,163,,,,No,,,Post,1151,,,WHITE,R0,open,38.2,,58
+62,UEC,Stage IA,,HISPANIC OR LATINO,0.0001,G3,158,,,,No,,,Post,293,,,,R0,open,9.8,36,89
+47,EC,Stage IA,,HISPANIC OR LATINO,0.0009,High Grade,155,,,,No,,,Post,,,,,R0,open,,13,70
+65,USC/UPSC,Stage IIIC2,,NOT HISPANIC OR LATINO,0.3103,G3,158,,,,No,,,Post,,,,ASIAN,R0,open,,70,64
+86,USC/UPSC,Stage IIIA,NO,,0.5541,G3,155,NO,Former User,Yes,No,Never Used,YES,Post,,positive,4+,WHITE,R0,open,,100,59
+31,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.081,G2,155,,,,No,,,Pre,,,,ASIAN,R0,open,,10,94
+63,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.0342,G3,165,,,,Yes,,,Post,,,,WHITE,R0,open,,100,87
+77,USC/UPSC,Stage IA,,NOT HISPANIC OR LATINO,0.2488,G3,155,,,,No,,,Post,,,,WHITE,R0,open,,49,50
+68,USC/UPSC,Stage IA,,NOT HISPANIC OR LATINO,0.0559,G3,160,,,,No,,,Post,,,,WHITE,R0,open,,0,80
+69,USC/UPSC,Stage IIIA,,,0.2796,G3,168,,,,No,,,Post,,,,WHITE,R1,open,,53,51
+76,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0001,G3,163,,,,No,,,Post,,,,WHITE,R0,open,,49,127
+41,UEC,Stage II,,HISPANIC OR LATINO,0.0004,G3,157,,,,No,,,Pre,,,,,R0,open,,50,72
+64,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.3955,G3,168,,,,No,,,Post,,negative,,WHITE,R0,open,,65,103
+74,USC/UPSC,Stage IB,,NOT HISPANIC OR LATINO,0.5228,G3,159,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,90,46
+64,UEC,Stage IA,NO,NOT HISPANIC OR LATINO,0.0346,G2,170,NO,Never Used,No,No,Never Used,YES,Post,,negative,1,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,39,64
+71,EC,Stage IA,YES,NOT HISPANIC OR LATINO,0.2537,G3,168,NO,Never Used,,No,Never Used,NO,Post,,negative,4+,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,49,97
+52,UEC,Stage II,YES,NOT HISPANIC OR LATINO,0.1192,G2,160,NO,Never Used,No,Yes,Never Used,YES,Peri,,,0,BLACK OR AFRICAN AMERICAN,R0,open,,49,59
+61,USC/UPSC,Stage II,,,0.5519,G3,152,,,,No,,,Post,84,positive,,WHITE,,open,2.833333333,,141
+70,USC/UPSC,Stage IIIA,,,0.4072,G3,,NO,,,No,,,Post,,negative,,WHITE,R2,,,27,
+69,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.1019,G3,157,,,,No,,,Post,,negative,,WHITE,R0,,,81,60
+65,UEC,Stage IA,,HISPANIC OR LATINO,0.2657,G3,155,,,,No,,,Post,,,,WHITE,R0,,,25,119
+60,UEC,Stage IIIC1,,NOT HISPANIC OR LATINO,0.011,G3,163,,,,No,,,Post,,negative,,WHITE,,Minimally Invasive,,,112
+67,USC/UPSC,Stage II,,NOT HISPANIC OR LATINO,0.3679,G3,170,,,,Yes,,,Post,,negative,,WHITE,,open,,,74
+60,UEC,Stage II,,,0.1558,G3,170,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,,132
+85,UEC,Stage IB,,,0,G3,165,,,,No,,,Post,,negative,,WHITE,,Minimally Invasive,,84,67
+57,USC/UPSC,Stage IIIC2,,NOT HISPANIC OR LATINO,0.482,G3,152,,,,No,,,Post,,negative,,WHITE,R0,open,,,85
+65,USC/UPSC,Stage IIIC2,,NOT HISPANIC OR LATINO,0.2474,G3,170,,,,No,,,Post,,negative,,WHITE,R0,open,,,113
+65,EC,Stage IA,,NOT HISPANIC OR LATINO,0.0339,G3,163,,,,Yes,,,Post,,negative,,WHITE,R0,open,,33,66
+,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.1476,G3,157,,,,No,,,Post,,,,WHITE,R0,open,,69,71
+67,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.4537,G3,157,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,15,100
+68,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.1333,G3,163,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,66,92
+74,EC,Stage IIIC2,,NOT HISPANIC OR LATINO,0.494,G3,168,,,,No,,,Post,,negative,,WHITE,R0,,,85,73
+53,UEC,Stage IA,,HISPANIC OR LATINO,0.0002,G3,157,,,,No,,,Peri,,negative,,WHITE,,Minimally Invasive,,5,60
+47,UEC,Stage IA,,,0.0008,G3,155,,,,No,,,Pre,,negative,,TIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,R0,Minimally Invasive,,6,57
+69,UEC,Stage IB,,,0.6265,G3,165,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,3.6,82
+52,UEC,Stage II,,NOT HISPANIC OR LATINO,0.1598,G3,160,,,,No,,,Post,,,,WHITE,R0,Minimally Invasive,,,72
+77,USC/UPSC,Stage IB,,NOT HISPANIC OR LATINO,0.4993,G3,157,,,,Yes,,,Post,,negative,,WHITE,R0,Minimally Invasive,,88,58
+63,UEC,Stage IA,,,0.0816,G3,168,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,21,110
+46,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0062,G3,160,,,,No,,,Pre,,negative,,WHITE,R0,Minimally Invasive,,4,80
+60,USC/UPSC,Stage IIIC,,NOT HISPANIC OR LATINO,0.1269,G3,160,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,54,117
+83,EC,Stage II,,NOT HISPANIC OR LATINO,0.1254,G3,155,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,60,93
+90,USC/UPSC,Stage IB,,NOT HISPANIC OR LATINO,0.7584,G3,162,,,,Yes,,,Post,,positive,,WHITE,R0,Minimally Invasive,,,65
+54,UEC,Stage II,,NOT HISPANIC OR LATINO,0.0003,G3,157,,,,No,,,Indetermite,,negative,,WHITE,R0,Minimally Invasive,,95,104
+73,USC/UPSC,Stage IA,,,0,G3,160,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,20,75
+55,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.0844,G3,160,,,,No,,,Post,,negative,,WHITE,R0,,,80,64
+57,USC/UPSC,Stage IIIA,YES,NOT HISPANIC OR LATINO,0.2386,G3,165,NO,,,No,Never Used,YES,Post,,negative,3,BLACK OR AFRICAN AMERICAN,R0,,,0,71
+78,USC/UPSC,Stage IB,,NOT HISPANIC OR LATINO,0.5385,G3,160,NO,,,No,,,Post,,negative,,WHITE,R0,,,,55
+53,USC/UPSC,Stage IVB,,NOT HISPANIC OR LATINO,,G3,163,NO,,,No,Never Used,,,,positive,,BLACK OR AFRICAN AMERICAN,RX,,,31,85
+65,UEC,Stage IA,YES,NOT HISPANIC OR LATINO,0,G3,160,NO,Never Used,No,No,Never Used,YES,Post,,negative,4+,BLACK OR AFRICAN AMERICAN,RX,,,3,147
+56,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0001,G2,167,,,,No,,,Post,,,,BLACK OR AFRICAN AMERICAN,R0,,,,109
+64,UEC,Stage II,,NOT HISPANIC OR LATINO,0.2061,G1,165,NO,,,No,Never Used,,Post,,negative,,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,0,167
+58,UEC,Stage IA,,,0.0004,G1,165,NO,,,No,Never Used,,Post,,negative,,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,17,115
+58,UEC,Stage IB,,,0,G2,156,NO,,,No,Never Used,,Post,,,,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,65,86
+64,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0951,G2,168,NO,,,No,Never Used,,Post,,negative,,BLACK OR AFRICAN AMERICAN,R0,open,,6,134
+69,UEC,Stage IA,,,0.0341,G3,159,,,,No,,,Post,6782,negative,,WHITE,R0,open,225.8666667,37,97
+59,USC/UPSC,Stage IVB,,,0.2774,G3,165,,,,No,,,Post,26,negative,,BLACK OR AFRICAN AMERICAN,R2,open,0.866666667,0,126
+90,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.1891,G3,156,,,,Yes,,,Post,45,negative,,WHITE,R0,open,1.533333333,25,48
+64,UEC,Stage IIIC1,,NOT HISPANIC OR LATINO,0.0545,G3,167,,,,No,,,Post,839,positive,,WHITE,R1,open,27.86666667,100,75
+64,UEC,Stage II,,,0.0011,G3,151,,,,No,,,Post,7228,negative,,WHITE,R0,open,240.9666667,96,56
+69,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0001,G3,160,,,,No,,,Post,9255,negative,,WHITE,R0,open,308.4333333,12,99
+81,USC/UPSC,Stage II,,,0.1828,G3,,,,,No,,,Post,64,negative,,WHITE,R0,open,2.1,91,
+67,USC/UPSC,Stage IIIC2,,,0.2183,G3,161,,,,Yes,,,Post,32,negative,,WHITE,R0,open,1.066666667,73,98
+75,USC/UPSC,Stage IB,,,0.6909,G3,153,,,,No,,,Post,69,negative,,WHITE,R0,Minimally Invasive,2.3,61,89
+66,USC/UPSC,Stage II,,,0.1747,G3,168,,,,No,,,Post,45,negative,,WHITE,R0,open,1.5,0,79
+58,UEC,Stage IA,,,0.0004,G1,162,,,,No,,,Pre,162,negative,,WHITE,R0,Minimally Invasive,5.466666667,23,123
+68,UEC,Stage IB,,,0.0197,G3,158,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,80,103
+54,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.1359,G1,161,,,,No,,,Pre,30,negative,,ASIAN,R0,Minimally Invasive,1,0,74
+70,USC/UPSC,Stage IIIC2,,,0.737,G3,,,,,No,,,Post,54,negative,,BLACK OR AFRICAN AMERICAN,R0,open,1.8,87,61
+71,USC/UPSC,Stage IA,,,0.5243,G3,152,,,,No,,,Post,56,negative,,WHITE,R0,open,1.866666667,0,60
+63,UEC,Stage IB,,,0.13,G3,158,,,,No,,,Post,356,negative,,WHITE,R0,open,11.9,87,68
+57,UEC,Stage IA,,,0.0341,G3,160,,,,No,,,Post,373,negative,,WHITE,R0,open,12.43333333,5,75
+82,UEC,Stage IVB,,NOT HISPANIC OR LATINO,0.3339,G3,161,,,,Yes,,,Post,179,,,WHITE,R2,open,5.933333333,17,72
+54,UEC,Stage IA,,,0,G3,163,,,,No,,,Post,296,negative,,WHITE,R0,Minimally Invasive,9.833333333,18,76
+60,EC,Stage IA,,NOT HISPANIC OR LATINO,0.1132,G3,164,,,,No,,,Post,108,positive,,WHITE,R0,open,3.566666667,0,83
+67,USC/UPSC,Stage IIIC2,,,0.3668,G3,161,,,,No,,,Post,74,negative,,BLACK OR AFRICAN AMERICAN,R2,open,2.466666667,83,86
+42,UEC,Stage IA,,,0.0469,G1,152,,,,No,,,Pre,38,negative,,WHITE,R0,open,1.3,0,80
+56,UEC,Stage IA,,,0.0344,G1,161,,,,No,,,Post,42,negative,,WHITE,R0,open,1.4,8,72
+33,UEC,Stage IIIC2,,,0.0001,G3,166,,,,No,,,Pre,10543,negative,,BLACK OR AFRICAN AMERICAN,R0,open,350.4666667,71,100
+56,UEC,Stage IA,,,0.0465,G1,166,,,,No,,,Post,45,negative,,BLACK OR AFRICAN AMERICAN,R0,open,1.5,0,119
+45,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.2933,G2,160,,,,No,,,Pre,27,negative,,WHITE,R0,Minimally Invasive,0.9,0,67
+76,UEC,Stage IA,,,0,G1,167,,,,No,,,Post,206,positive,,WHITE,R0,open,6.866666667,12,60
+59,UEC,Stage IA,,,0.0464,G2,163,,,,No,,,Post,42,negative,,WHITE,R0,open,1.4,5,95
+63,UEC,Stage IA,,,0.0001,G2,169,,,,Yes,,,Post,,,,WHITE,R0,Minimally Invasive,,21,81
+57,UEC,Stage II,,,0,G2,165,,,,No,,,Post,477,negative,,WHITE,R0,Minimally Invasive,15.8,38,91
+39,UEC,Stage IA,,,0.0001,G1,152,,,,No,,,Pre,19,negative,,WHITE,R0,open,0.633333333,36,76
+62,UEC,Stage IA,,,0,G3,168,,,,No,,,Post,,negative,,WHITE,R0,open,,41,127
+53,UEC,Stage IA,,,0.0003,G3,160,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,36,56
+60,UEC,Stage IA,,,0.0415,G1,159,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,23,92
+62,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.2144,G2,156,,,,No,,,Post,,negative,,WHITE,R0,open,,24,80
+70,UEC,Stage IA,,,0.0341,G2,158,,,,No,,,Post,,negative,,WHITE,R0,open,,46,83
+76,USC/UPSC,Stage IIIC1,,,0.501,High Grade,163,,,,No,,,Post,27,negative,,WHITE,R0,open,0.9,82,60
+59,UEC,Stage IIIC1,,,0.0002,G2,160,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,27,109
+59,UEC,Stage II,,NOT HISPANIC OR LATINO,0.0195,G3,147,,,,No,,,Post,,negative,,WHITE,R0,open,,94,46
+40,UEC,Stage IIIC2,,,0.0004,G2,158,,,,No,,,Pre,,positive,,WHITE,R0,Minimally Invasive,,35,59
+74,UEC,Stage IA,,,0.0338,G2,160,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,10,73
+45,UEC,Stage IIIC1,,,0.0001,G3,163,,,,No,,,Pre,,negative,,WHITE,R0,open,,77,130
+54,UEC,Stage IB,,,0.127,G2,163,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,58,54
+56,USC/UPSC,Stage IVB,,NOT HISPANIC OR LATINO,0.4611,High Grade,157,,,,No,,,Post,,positive,,WHITE,RX,open,,58.8,60
+68,EC,Stage IIIC1,YES,,0.4774,G3,168,NO,Never Used,No,No,Never Used,YES,Post,,positive,4+,BLACK OR AFRICAN AMERICAN,RX,open,,96,80
+66,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.9487,G3,162,,,,No,,,Post,,,,WHITE,R0,open,,70,58
+81,UEC,Stage IIIC,,NOT HISPANIC OR LATINO,0.0904,G3,152,,,,No,,,Post,376,negative,,WHITE,R2,open,12.6,50,48
+82,UEC,Stage IB,,,0.0464,G1,161,,,,No,,,Post,41,negative,,WHITE,R0,Minimally Invasive,1.366666667,50,61
+56,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0586,G1,155,,,,No,,,Post,29,negative,,AMERICAN INDIAN OR ALASKA TIVE,R0,Minimally Invasive,0.966666667,50,62
+60,UEC,Stage IIB,,NOT HISPANIC OR LATINO,0.2216,G1,161,,,,No,,,Post,44,negative,,WHITE,R0,open,1.5,50,74
+57,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0411,G1,166,,,,No,,,Post,131,negative,,WHITE,R0,open,4.333333333,50,92
+37,UEC,Stage IIIA,,HISPANIC OR LATINO,0.019,G2,150,,,,No,,,Indetermite,5724,negative,,,R1,Minimally Invasive,190.2666667,50,66
+77,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.0342,G3,163,,,,No,,,Post,514,negative,,AMERICAN INDIAN OR ALASKA TIVE,R1,open,17.13333333,50,87
+53,UEC,Stage IB,,,0.0001,G1,173,,,,No,,,Indetermite,27,negative,,WHITE,R0,open,0.933333333,50,122
+63,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.044,G2,160,,,,No,,,Post,719,negative,,WHITE,R0,open,23.93333333,50,88
+81,UEC,Stage IIA,,,0.0341,G2,154,,,,No,,,Post,193,negative,,WHITE,,open,6.433333333,50,48
+72,UEC,Stage IIA,,NOT HISPANIC OR LATINO,0.5106,G3,151,,,,Yes,,,Post,32,negative,,WHITE,R0,open,1.066666667,50,93
+82,UEC,Stage IIIA,,,0.1137,G2,160,,,,Yes,,,Post,,positive,,WHITE,R1,Minimally Invasive,,50,91
+59,UEC,Stage IVA,,NOT HISPANIC OR LATINO,0.0013,G3,165,,,,No,,,Post,,,,WHITE,R0,open,,50,84
+60,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.0004,G1,160,,,,No,,,Post,284,negative,,AMERICAN INDIAN OR ALASKA TIVE,R1,Minimally Invasive,9.433333333,50,98
+71,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0464,G3,161,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,50,119
+63,UEC,Stage IB,,,0.0002,G1,161,,,,No,,,Post,31,negative,,WHITE,R1,open,1,50,112
+52,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.1065,G2,168,,,,No,,,Post,50,negative,,WHITE,R1,Minimally Invasive,1.7,50,132
+79,USC/UPSC,Stage IIIC,,NOT HISPANIC OR LATINO,0.2139,G3,158,,,,No,,,Post,40,negative,,BLACK OR AFRICAN AMERICAN,R0,open,1.3,50,76
+67,USC/UPSC,Stage IIIA,,NOT HISPANIC OR LATINO,0.6545,G3,163,,,,No,,,Post,41,negative,,WHITE,R0,open,1.366666667,50,61
+53,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0004,G3,160,,,,No,,,Post,,negative,,WHITE,R0,open,,50,60
+47,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0006,G2,163,,,,No,,,Post,6985,negative,,WHITE,R0,open,232.6333333,50,53
+80,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0341,G2,160,,,,No,,,Post,3878,negative,,WHITE,R0,open,129.0666667,50,57
+52,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0853,G2,178,,,,No,,,Indetermite,,negative,,WHITE,R1,open,,50,115
+47,UEC,Stage IIIC,,NOT HISPANIC OR LATINO,0.004,G3,160,,,,No,,,Indetermite,,negative,,WHITE,R2,open,,50,107
+77,USC/UPSC,Stage IB,,NOT HISPANIC OR LATINO,0.3689,G3,152,,,,No,,,Post,39,negative,,WHITE,R0,open,1.333333333,50,60
+77,USC/UPSC,Stage IIIC,,NOT HISPANIC OR LATINO,0.2344,G3,156,,,,No,,,Post,53,negative,,WHITE,R1,Minimally Invasive,1.766666667,50,66
+73,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0989,G2,152,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,50,73
+70,USC/UPSC,Stage IB,,NOT HISPANIC OR LATINO,0.5031,G3,157,,,,No,,,,,negative,,BLACK OR AFRICAN AMERICAN,R1,open,,50,77
+65,USC/UPSC,Stage IC,,NOT HISPANIC OR LATINO,0.0123,G3,156,,,,No,,,Post,,negative,,WHITE,R0,open,,50,99
+60,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0013,G3,160,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,50,58
+69,UEC,Stage IVB,,NOT HISPANIC OR LATINO,0.5489,G3,150,,,,No,,,,,positive,,WHITE,R2,open,,50,79
+61,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0488,G1,164,,,,No,,,Post,,negative,,WHITE,R0,open,,50,74
+59,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.0811,G2,163,,,,No,,,Indetermite,,negative,,BLACK OR AFRICAN AMERICAN,R0,open,,50,115
+58,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.1396,G2,163,,,,No,,,Post,,negative,,WHITE,R0,open,,50,72
+54,UEC,Stage IIB,,NOT HISPANIC OR LATINO,0.069,G3,175,,,,No,,,Pre,,negative,,WHITE,R0,open,,50,146
+84,USC/UPSC,Stage IA,,NOT HISPANIC OR LATINO,0.1854,G3,156,,,,Yes,,,Post,23,negative,,WHITE,R1,Minimally Invasive,0.766666667,0,55
+70,EC,Stage IIB,,NOT HISPANIC OR LATINO,0.3765,G3,165,,,,Yes,,,Post,,negative,,WHITE,R1,open,,50,97
+86,USC/UPSC,Stage IIA,,NOT HISPANIC OR LATINO,0.6405,G3,162,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,R0,open,,,65
+66,USC/UPSC,Stage IIIA,,NOT HISPANIC OR LATINO,0.5642,G3,157,,,,No,,,Post,,negative,,WHITE,R2,open,,,84
+67,USC/UPSC,Stage IIIC,,NOT HISPANIC OR LATINO,0.289,G3,161,,,,No,,,,43,negative,,BLACK OR AFRICAN AMERICAN,R1,open,1.433333333,,87
+87,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.2716,G3,151,,,,No,,,,,negative,,WHITE,R0,open,,,60
+64,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.2494,G3,160,,,,Yes,,,Post,,negative,,WHITE,R0,open,,,113
+35,UEC,Stage IB,,,0.0934,G3,167,,,,No,,,,,negative,,WHITE,R0,open,,,60
+53,UEC,Stage IIIC,,NOT HISPANIC OR LATINO,0.0764,G3,158,,,,No,,,,,negative,,BLACK OR AFRICAN AMERICAN,R0,open,,,118
+69,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.03,G3,149,,,,No,,,,,positive,,WHITE,R1,open,,,51
+67,USC/UPSC,Stage IB,,NOT HISPANIC OR LATINO,0.9162,G3,157,,,,Yes,,,Post,29,negative,,WHITE,R0,open,0.966666667,,70
+56,UEC,Stage IC,,HISPANIC OR LATINO,0.0004,G3,157,,,,No,,,Post,,,,WHITE,R1,open,,67,115
+60,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.2247,G3,155,,,,No,,,,,negative,,WHITE,R1,open,,,65
+35,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.0524,G3,152,,,,No,,,,,negative,,ASIAN,R0,open,,80,56
+77,UEC,Stage IIIC,,,0.5945,G3,154,,,,No,,,Post,,negative,,WHITE,R0,open,,84,73
+63,UEC,Stage IC,,,0.0341,G3,157,,,,No,,,Post,,negative,,WHITE,R0,open,,85,100
+83,USC/UPSC,Stage IIA,,,0.3254,G3,162,,,,No,,,Post,,negative,,WHITE,R1,open,,,64
+82,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0371,G3,139,,,,No,,,Post,,negative,,WHITE,,open,,,98
+64,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0499,G3,161,,,,No,,,Post,,,,WHITE,,open,,,82
+62,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.7134,G3,152,,,,No,,,,,,,WHITE,,open,,,113
+66,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.1587,G3,167,,,,No,,,Post,,,,WHITE,,open,,27,84
+69,UEC,Stage IIB,,NOT HISPANIC OR LATINO,0.2339,G3,149,,,,No,,,Post,,,,WHITE,,open,,,85
+33,UEC,Stage IIIB,,NOT HISPANIC OR LATINO,0.3266,G3,152,,,,No,,,,,positive,,WHITE,,open,,,113
+84,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.3476,G3,160,,,,No,,,Post,,,,WHITE,,open,,,61
+58,USC/UPSC,Stage IIIA,,,0.5551,G3,167,,,,Yes,,,Post,,,,WHITE,,open,,,55
+60,USC/UPSC,Stage IIIC,,NOT HISPANIC OR LATINO,0.4534,G3,167,,,,No,,,Post,,,,TIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,,open,,,107
+67,USC/UPSC,Stage IA,,NOT HISPANIC OR LATINO,0.5603,G2,167,,,,No,,,,,,,WHITE,,open,,,60
+71,USC/UPSC,Stage IVB,,NOT HISPANIC OR LATINO,0.1583,G3,154,,,,No,,,,,,,WHITE,,open,,,74
+76,UEC,Stage IA,,,0.0345,G3,157,,,,No,,,Post,,negative,,WHITE,,open,,,62
+63,UEC,Stage IIIC,,NOT HISPANIC OR LATINO,0.0001,G3,154,,,,No,,,,,negative,,WHITE,R1,open,,,60
+73,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0345,G3,158,,,,No,,,Post,,negative,,WHITE,R0,open,,,87
+66,USC/UPSC,Stage IIIC,,NOT HISPANIC OR LATINO,0.7361,G3,167,,,,No,,,,,,,BLACK OR AFRICAN AMERICAN,,open,,,87
+84,USC/UPSC,Stage IVB,,,0.5279,G3,154,,,,Yes,,,Post,97,positive,,BLACK OR AFRICAN AMERICAN,,open,3.2,0,58
+73,UEC,Stage IB,,,0.1187,G3,161,,,,No,,,Post,442,negative,,WHITE,,Minimally Invasive,14.7,71,105
+54,UEC,Stage IA,,,0.0195,G1,170,,,,No,,,Post,27,negative,,WHITE,,Minimally Invasive,0.9,11,110
+63,UEC,Stage IIIA,,,0.3758,G1,168,,,,No,,,Post,49,positive,,WHITE,,Minimally Invasive,1.6,12,119
+57,UEC,Stage IB,,,0,G2,158,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,,19,137
+63,UEC,Stage IA,,,0.0359,G2,166,,,,No,,,Post,210,negative,,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,6.966666667,26,94
+62,UEC,Stage IB,,,0.1203,G3,168,,,,No,,,Post,,negative,,WHITE,,Minimally Invasive,,23,113
+50,UEC,Stage IIIC1,,,0.0003,G3,168,,,,No,,,Post,8976,negative,,WHITE,,open,299.1333333,100,67
+60,UEC,Stage IIIC1,,,0.0001,G3,162,,,,No,,,Post,352,negative,,WHITE,,open,11.76666667,61,87
+48,UEC,Stage IA,,,0.0888,G1,168,,,,No,,,Indetermite,21,negative,,WHITE,,Minimally Invasive,0.7,0,140
+69,UEC,Stage IA,,,0,G1,174,,,,No,,,Post,39,negative,,WHITE,,open,1.3,45,117
+54,UEC,Stage IIIA,,,0.0004,G1,159,,,,No,,,Indetermite,195,positive,,WHITE,,Minimally Invasive,6.533333333,0,84
+62,UEC,Stage IA,,,0.2142,G3,164,,,,No,,,Post,35,negative,,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,1.166666667,10,88
+51,UEC,Stage IB,,,0.3111,G2,162,,,,No,,,Post,50,negative,,,,Minimally Invasive,1.666666667,87,75
+58,UEC,Stage IA,,,0.0488,G1,167,,,,No,,,Post,182,negative,,WHITE,,Minimally Invasive,6.1,7,132
+64,UEC,Stage IA,,,0.1183,G1,168,,,,No,,,Post,39,negative,,WHITE,,Minimally Invasive,1.3,0,61
+71,USC/UPSC,Stage IB,,,0.3133,G3,160,,,,No,,,Post,39,negative,,WHITE,,Minimally Invasive,1.333333333,5,61
+88,UEC,Stage II,,,0.1183,G1,160,,,,No,,,Post,530,negative,,WHITE,,Minimally Invasive,17.53333333,87,65
+62,UEC,Stage IB,,,0.3567,G3,161,,,,Yes,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,,72,76
+53,UEC,Stage IB,,,0.079,G3,165,,,,No,,,Peri,8249,negative,,WHITE,,Minimally Invasive,274.4333333,69,52
+55,UEC,Stage IA,,,0.0629,G2,,,,,No,,,Post,39,negative,,WHITE,,Minimally Invasive,1.266666667,7,
+71,UEC,Stage IA,,,0.036,G1,160,,,,No,,,Post,388,negative,,BLACK OR AFRICAN AMERICAN,,open,12.93333333,0,77
+67,UEC,Stage IIIA,,,0.067,G2,,,,,No,,,Post,736,positive,,WHITE,,open,24.23333333,0,101
+65,UEC,Stage IVB,,,0.2983,G3,159,,,,No,,,Post,37,negative,,BLACK OR AFRICAN AMERICAN,,open,1.233333333,8,124
+64,UEC,Stage IA,,,0,G2,,,,,No,,,Post,320,negative,,WHITE,,open,10.6,9,134
+71,UEC,Stage IC,,,0.0678,G2,163,,,,No,,,Post,,negative,,WHITE,,Minimally Invasive,,85,92
+43,UEC,Stage IA,,,,G1,153,,,,No,,,Pre,29,negative,,WHITE,,open,1,4,139
+69,UEC,Stage IA,,,0.0279,G1,174,,,,No,,,Post,1570,negative,,WHITE,,Minimally Invasive,52.36666667,5,90
+62,UEC,Stage IA,,,0.0001,G1,177,,,,No,,,Post,54,negative,,WHITE,,Minimally Invasive,1.8,13,114
+87,UEC,Stage IB,,,0.6382,G3,,,,,No,,,Post,,,,WHITE,,Minimally Invasive,,20,74
+64,UEC,Stage IIIA,,,0.112,G1,161,,,,No,,,Post,42,negative,,WHITE,,Minimally Invasive,1.4,34,88
+51,UEC,Stage II,,,0.3046,G3,168,,,,No,,,Post,536,negative,,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,17.86666667,60,89
+63,UEC,Stage IA,,,0.1509,G2,157,,,,No,,,Post,43,negative,,WHITE,,Minimally Invasive,1.433333333,17,118
+74,UEC,Stage IVB,,,0.0001,G3,152,,,,No,,,Post,228,,,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,7.633333333,23,61
+64,UEC,Stage IA,,,0.1219,G1,157,,,,No,,,Post,52,positive,,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,1.666666667,29,71
+61,UEC,Stage IB,,,0.0009,G2,163,,,,No,,,Post,65,positive,,WHITE,,Minimally Invasive,2.166666667,52,102
+66,UEC,Stage IIIC2,,,,G3,160,,,,No,,,Post,51,negative,,BLACK OR AFRICAN AMERICAN,,open,1.733333333,100,71
+59,UEC,Stage IB,,,0,G1,162,,,,No,,,Post,811,negative,,WHITE,,Minimally Invasive,27.16666667,54,63
+61,UEC,Stage IA,,,0.0343,G1,172,,,,No,,,Post,47,negative,,WHITE,,Minimally Invasive,1.566666667,0,84
+57,UEC,Stage IIIA,,,0.0001,G1,165,,,,No,,,Post,26,negative,,WHITE,,Minimally Invasive,0.833333333,48,80
+65,UEC,Stage IIIA,,,0.0499,G3,,,,,No,,,Post,,negative,,WHITE,,open,,4,58
+60,USC/UPSC,Stage IC,,NOT HISPANIC OR LATINO,0.3454,G3,166,,,,No,,,Post,,negative,,WHITE,RX,Minimally Invasive,,55,74
+79,USC/UPSC,Stage IVB,,,0.135,G3,147,,,,No,,,Post,26,positive,,WHITE,,open,0.866666667,100,44
+84,UEC,Stage IA,,,0.1008,G2,151,,,,No,,,Post,,negative,,WHITE,,open,,47,72
+55,UEC,Stage IA,,,0.0499,G3,163,,,,No,,,Post,,negative,,WHITE,,Minimally Invasive,,31,62
+47,UEC,Stage IB,,,0.0008,G3,152,,,,No,,,Pre,,,,WHITE,,Minimally Invasive,,100,58
+62,USC/UPSC,Stage IIIC2,,,0.5939,G3,146,,,,No,,,Post,43,negative,,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,1.433333333,100,67
+54,UEC,Stage IA,,,0.0341,G1,166,,,,No,,,Indetermite,,negative,,WHITE,,Minimally Invasive,,31,114
+70,USC/UPSC,Stage IIIC1,,,0.5747,G3,168,,,,No,,,Post,,positive,,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,,12.5,114
+56,UEC,Stage IB,,,0.0636,G3,166,,,,No,,,Post,,,,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,,6,155
+73,UEC,Stage IC,,,0.0003,G3,158,,,,No,,,Post,,negative,,WHITE,,Minimally Invasive,,52,74
+73,UEC,Stage IB,,,0.0111,G3,170,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,,4,115
+53,UEC,Stage II,,NOT HISPANIC OR LATINO,0.0043,G3,169,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,,open,,0,76
+70,UEC,Stage IA,,,0.7669,G3,174,,,,No,,,Indetermite,,negative,,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,,30,115
+74,UEC,Stage IA,,,0.0477,G3,160,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,,6,85
+71,USC/UPSC,Stage IIIC1,,,0.4083,G3,155,,,,No,,,Post,,negative,,WHITE,,Minimally Invasive,,87.6,68
+71,UEC,Stage IIIB,,,0.0796,G3,,,,,No,,,,,,,BLACK OR AFRICAN AMERICAN,R2,,,,
+67,USC/UPSC,Stage IIIC,,,0.6366,G3,,,,,No,,,,,,,BLACK OR AFRICAN AMERICAN,,,,,
+68,USC/UPSC,Stage IIIC2,,,0.4046,G3,,,,,No,,,,,,,BLACK OR AFRICAN AMERICAN,,,,,
+47,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0001,G2,157,,,,No,,,Indetermite,26,negative,,WHITE,R0,open,0.9,5,141
+57,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0811,G2,170,,,,No,,,Post,325,,,WHITE,R0,open,10.76666667,90,96
+66,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.1187,G1,165,,,,No,,,Post,111,negative,,WHITE,R0,Minimally Invasive,3.666666667,6,117
+62,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.3315,G2,168,,,,No,,,Post,25,negative,,WHITE,R0,Minimally Invasive,0.8,59,76
+74,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.1516,G2,160,,,,No,,,Post,59,positive,,WHITE,R0,open,1.966666667,53,75
+60,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.1939,G3,178,,,,No,,,Post,337,negative,,WHITE,R0,Minimally Invasive,11.13333333,5,97
+73,USC/UPSC,Stage IIIC2,,NOT HISPANIC OR LATINO,0.6552,G3,152,,,,Yes,,,Post,38,positive,,WHITE,R0,open,1.266666667,100,55
+60,UEC,Stage IIIC1,,NOT HISPANIC OR LATINO,0.0001,G2,160,,,,No,,,Post,45,negative,,WHITE,R0,open,1.5,75,102
+50,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.308,G3,160,,,,Yes,,,Indetermite,46,negative,,WHITE,R0,open,1.5,50,209
+73,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0498,G2,160,,,,No,,,Post,47,negative,,WHITE,R0,open,1.533333333,75,93
+60,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0499,G3,170,,,,No,,,Post,,negative,,WHITE,R0,open,,78,111
+74,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0296,G1,155,,,,No,,,Post,43,negative,,WHITE,R0,Minimally Invasive,1.466666667,0,135
+73,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0938,G1,160,,,,No,,,Post,84,negative,,WHITE,R0,open,2.833333333,36,61
+61,UEC,Stage IC,,,,G2,154,,,,No,,,Post,,,,WHITE,,open,,90,136
+83,UEC,Stage IA,,NOT HISPANIC OR LATINO,0,G2,165,,,,No,,,Post,51,negative,,WHITE,R0,open,1.666666667,13,101
+52,UEC,Stage IIB,,NOT HISPANIC OR LATINO,0.0002,G3,,,,,No,,,Pre,,negative,,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,,
+63,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0433,G1,160,,,,No,,,Post,36,negative,,WHITE,R0,open,1.2,35.7,83
+71,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0493,G1,165,,,,No,,,Post,421,negative,,WHITE,R0,open,14.06666667,25,101
+53,UEC,Stage IIIC1,,NOT HISPANIC OR LATINO,0.1663,G3,160,,,,Yes,,,Post,41,negative,,WHITE,R0,open,1.3,44,65
+64,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.1556,G2,168,,,,No,,,Post,41,negative,,WHITE,R0,Minimally Invasive,1.366666667,25,73
+78,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.0495,G1,152,,,,No,,,Post,53,negative,,WHITE,R0,open,1.733333333,76.9,68
+68,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.3342,G2,170,,,,No,,,Post,43,negative,,WHITE,R0,open,1.466666667,96,118
+56,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.0492,G2,170,,,,No,,,Pre,28,,,WHITE,R0,Minimally Invasive,0.866666667,20,144
+53,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0342,G1,162,,,,No,,,Pre,35,negative,,WHITE,R0,open,1.166666667,50,147
+77,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0117,G1,157,,,,No,,,Post,220,negative,,WHITE,R0,open,7.2,50,93
+58,UEC,Stage IB,,NOT HISPANIC OR LATINO,0,G1,152,,,,No,,,Post,162,,,WHITE,RX,open,5.4,15,157
+58,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.0026,G1,165,,,,No,,,Post,234,negative,,WHITE,R0,open,7.733333333,52,109
+89,UEC,Stage II,,NOT HISPANIC OR LATINO,0.1698,G2,130,,,,No,,,Post,63,,,WHITE,R0,open,2.1,45,56
+57,UEC,Stage IA,,,0.0465,G1,165,,,,No,,,Post,34,,,WHITE,RX,open,1.1,0,121
+37,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0495,G1,157,,,,No,,,Pre,15,,,WHITE,RX,open,0.5,50,107
+67,USC/UPSC,Stage IIIA,,NOT HISPANIC OR LATINO,0.2432,G3,155,,,,Yes,,,Post,68,,,WHITE,R0,Minimally Invasive,2.266666667,,54
+61,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.0496,G2,162,,,,No,,,,28,positive,,BLACK OR AFRICAN AMERICAN,RX,open,0.9,28,75
+65,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0465,G2,160,,,,No,,,,80,negative,,WHITE,R0,Minimally Invasive,2.633333333,80,61
+74,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0464,G1,162,,,,No,,,Post,51,negative,,WHITE,RX,Minimally Invasive,1.7,50,84
+53,UEC,Stage I,,NOT HISPANIC OR LATINO,0.0005,G2,163,,,,No,,,Peri,265,,,WHITE,RX,open,8.8,,116
+72,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.8304,G2,163,,,,No,,,,39,,,WHITE,RX,Minimally Invasive,1.3,13,96
+69,UEC,Stage IA,,NOT HISPANIC OR LATINO,0,G3,,,,,Yes,,,,,,,WHITE,,open,,,127
+84,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.1407,G3,157,,,,Yes,,,Post,,,,WHITE,,open,,,62
+49,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0443,G3,167,,,,No,,,,,negative,,WHITE,,open,,,132
+63,UEC,Stage IIIB,,NOT HISPANIC OR LATINO,0.0016,G3,160,,,,No,,,Post,,positive,,WHITE,,Minimally Invasive,,,80
+57,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.238,G3,179,,,,No,,,Peri,47,,,WHITE,,open,1.566666667,,135
+68,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0004,G3,,,,,No,,,,,,,WHITE,RX,open,,,
+62,UEC,Stage III,,NOT HISPANIC OR LATINO,0.0349,G3,166,,,,No,,,Post,,,,WHITE,R0,Minimally Invasive,,12,126
+82,USC/UPSC,Stage II,,NOT HISPANIC OR LATINO,0.418,G3,,,,,No,,,Post,,positive,,WHITE,R0,Minimally Invasive,,,
+57,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.5839,G1,168,,,,No,,,Post,343,negative,,WHITE,R0,open,11.36666667,40,127
+61,EC,Stage IIIC,,NOT HISPANIC OR LATINO,0.0011,G3,163,,,,No,,,Post,37,negative,,WHITE,RX,Minimally Invasive,1.233333333,,
+60,UEC,Stage IIIC,,NOT HISPANIC OR LATINO,0.05,G2,154,,,,No,,,Post,56,negative,,WHITE,R0,open,1.833333333,76,111
+69,USC/UPSC,Stage IIIC,,HISPANIC OR LATINO,0.5281,G3,152,,,,No,,,Post,34,negative,,BLACK OR AFRICAN AMERICAN,RX,open,1.1,54,72
+74,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.4547,G3,154,,,,No,,,Post,78,,,WHITE,R0,Minimally Invasive,2.6,,59
+74,EC,Stage IB,,NOT HISPANIC OR LATINO,0.6928,G3,154,,,,No,,,Post,,,,WHITE,R0,Minimally Invasive,,,59
+58,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0344,G3,170,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,,,,,131
+47,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0343,G2,166,,,,No,,,Peri,38,negative,,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,1.233333333,17,93
+71,USC/UPSC,Stage IIIC1,,NOT HISPANIC OR LATINO,0.3822,G3,152,,,,No,,,Post,,negative,,WHITE,RX,Minimally Invasive,,80,75
+42,UEC,Stage IA,YES,NOT HISPANIC OR LATINO,0.8106,G3,163,NO,,,No,,YES,Pre,,negative,3,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,25,142
+75,UEC,Stage IB,YES,NOT HISPANIC OR LATINO,0.0024,G1,163,NO,,,No,,YES,Post,,negative,4+,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,60,84
+34,UEC,Stage II,NO,NOT HISPANIC OR LATINO,0.0003,G2,167,NO,,No,No,Never Used,NO,Pre,,negative,3,BLACK OR AFRICAN AMERICAN,R0,,,,89
+62,UEC,Stage IA,YES,NOT HISPANIC OR LATINO,0,G2,157,NO,,,No,Never Used,YES,Post,,,4+,BLACK OR AFRICAN AMERICAN,R0,,,32,107
+39,UEC,Stage IVB,,NOT HISPANIC OR LATINO,0.0504,G3,165,,,,No,,,Pre,51,positive,,TIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,R2,open,1.733333333,67,109
+58,UEC,Stage IVB,,HISPANIC OR LATINO,0.0005,G3,152,,,,No,,,Post,295,negative,,TIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,RX,open,9.7,88,90
+69,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0005,G1,147,,,,No,,,Post,1204,negative,,ASIAN,R0,open,40.03333333,9,68
+65,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0001,G1,155,,,,No,,,Post,28,negative,,ASIAN,R0,open,0.933333333,3,85
+35,UEC,Stage IVB,,NOT HISPANIC OR LATINO,0.6335,G3,168,,,,No,,,Pre,231,positive,,ASIAN,R2,open,7.666666667,100,91
+60,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.0498,G2,163,,,,No,,,Post,34,positive,,WHITE,R0,open,1.166666667,40,64
+64,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.3669,G3,163,,,,No,,,Post,75,negative,,WHITE,R0,open,2.5,92,59
+59,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.0002,G3,152,,,,No,,,Post,459,negative,,ASIAN,R0,open,15.23333333,58,88
+76,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0001,G1,165,,,,No,,,Post,58,,,WHITE,R0,open,1.933333333,0,59
+63,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.0908,G2,165,,,,No,,,Post,121,,,WHITE,R0,open,4.033333333,51,66
+55,UEC,Stage IIIC,,NOT HISPANIC OR LATINO,0.0034,G1,170,,,,No,,,Post,281,negative,,WHITE,,open,9.366666667,100,82
+59,UEC,Stage IIA,,NOT HISPANIC OR LATINO,0.6511,G3,170,,,,No,,,Post,38,negative,,TIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,RX,open,1.266666667,5,99
+68,UEC,Stage IB,,NOT HISPANIC OR LATINO,0,G1,152,,,,No,,,Post,241,negative,,WHITE,R0,open,8,26,64
+65,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0001,G3,147,,,,No,,,Post,7422,negative,,ASIAN,R0,open,246.9666667,30,57
+68,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0001,G1,155,,,,No,,,Post,1442,negative,,ASIAN,R0,open,48.1,0,52
+54,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0001,G1,170,,,,No,,,Peri,296,negative,,TIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,R0,open,9.8,0,114
+64,UEC,Stage IB,,NOT HISPANIC OR LATINO,,G1,160,,,,No,,,Post,279,negative,,WHITE,R0,open,9.233333333,22,90
+62,UEC,Stage IIB,,NOT HISPANIC OR LATINO,0.1947,G2,152,,,,No,,,Post,41,negative,,ASIAN,R0,open,1.366666667,33,65
+55,UEC,Stage IIIC,,NOT HISPANIC OR LATINO,0.1249,G3,168,,,,No,,,Post,7845,negative,,TIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,R0,open,260.7333333,65,112
+56,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0307,G1,165,,,,No,,,Post,,negative,,WHITE,,open,,4,96
+55,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0002,G1,157,,,,No,,,Post,43,negative,,ASIAN,R0,open,1.433333333,5.6,83
+48,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0001,G1,170,,,,No,,,Pre,36,negative,,TIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,R0,open,1.2,36.7,102
+68,UEC,Stage IIB,,NOT HISPANIC OR LATINO,0.5415,G2,157,,,,No,,,Post,66,negative,,TIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,R1,open,2.2,75,85
+58,UEC,Stage IIB,,NOT HISPANIC OR LATINO,0.044,G3,163,,,,No,,,Post,,,,WHITE,R0,open,,93,91
+55,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0471,G2,160,,,,No,,,Post,41,negative,,ASIAN,R0,open,1.366666667,0,93
+60,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0767,G1,168,,,,No,,,Peri,38,negative,,WHITE,R0,open,1.266666667,0,82
+75,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0834,G1,165,,,,Yes,,,Post,419,negative,,WHITE,R0,Minimally Invasive,13.96666667,30,110
+59,USC/UPSC,Stage IVA,,NOT HISPANIC OR LATINO,0.1861,G3,161,,,,No,,,Post,30,positive,,WHITE,RX,open,1,30,58
+90,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.1772,G2,155,,,,No,,,Post,73,,,WHITE,R0,Minimally Invasive,2.433333333,60,69
+57,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0341,G2,165,,,,No,,,Indetermite,46,negative,,WHITE,R0,open,1.5,12,117
+54,UEC,Stage IB,,NOT HISPANIC OR LATINO,0,G3,164,,,,No,,,Post,292,,,WHITE,R0,Minimally Invasive,9.633333333,40,62
+34,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0964,G2,170,,,,No,,,Pre,31,negative,,WHITE,R0,Minimally Invasive,1.033333333,5,94
+58,UEC,Stage IB,,NOT HISPANIC OR LATINO,0,G2,170,,,,No,,,Post,36,,,WHITE,R0,open,1.166666667,30,77
+80,EC,Stage IB,,NOT HISPANIC OR LATINO,0.5039,G3,154,,,,No,,,Post,57,negative,,WHITE,R0,open,1.866666667,11,51
+60,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0002,G2,150,,,,No,,,Post,195,negative,,WHITE,RX,Minimally Invasive,6.4,10,82
+49,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.1758,G2,178,,,,Yes,,,Peri,37,negative,,WHITE,RX,open,1.233333333,13,122
+87,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0001,G1,150,,,,No,,,Post,5998,,,WHITE,R0,open,199.5333333,0,60
+68,USC/UPSC,Stage IB,,NOT HISPANIC OR LATINO,0.3738,G3,160,,,,No,,,Post,36,negative,,WHITE,R0,Minimally Invasive,1.2,20,69
+58,UEC,Stage IIIC,,NOT HISPANIC OR LATINO,0.0024,G1,165,,,,No,,,Post,62,negative,,WHITE,RX,open,2.033333333,38,126
+45,USC/UPSC,Stage IA,,NOT HISPANIC OR LATINO,0.0006,High Grade,169,,,,No,,,Pre,1333,negative,,WHITE,R0,open,44.43333333,0,72
+72,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0465,G2,160,,,,No,,,Post,69,,,WHITE,R0,open,2.266666667,30,125
+70,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0341,G2,172,,,,No,,,Post,361,negative,,WHITE,R0,open,12.06666667,20,122
+78,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.0468,G1,159,,,,No,,,Post,71,negative,,WHITE,R0,Minimally Invasive,2.366666667,70,71
+69,UEC,Stage IB,,NOT HISPANIC OR LATINO,,G1,170,,,,No,,,Post,,negative,,WHITE,R0,open,,50,100
+50,UEC,Stage IIIC,,NOT HISPANIC OR LATINO,0.0001,G2,169,,,,No,,,Peri,380,negative,,WHITE,R0,open,12.73333333,12,109
+64,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.1588,G1,181,,,,No,,,Post,51,positive,,WHITE,R0,Minimally Invasive,1.7,25,87
+70,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.0001,G2,152,,,,No,,,Post,1362,negative,,WHITE,R0,open,45.33333333,60,72
+67,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.232,G3,162,,,,No,,,Post,50,negative,,WHITE,R0,open,1.566666667,35,76
+63,UEC,Stage IV,,NOT HISPANIC OR LATINO,0.2083,G2,170,,,,No,,,Post,40,positive,,WHITE,R0,Minimally Invasive,1.333333333,45,102
+64,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.0001,G2,159,,,,No,,,Post,47,negative,,WHITE,R0,Minimally Invasive,1.566666667,56,86
+49,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.0003,G2,164,,,,No,,,Peri,38,negative,,WHITE,RX,open,1.266666667,86,151
+73,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0001,G1,154,,,,No,,,Post,47,,,WHITE,R0,open,1.6,25,60
+60,UEC,Stage IB,,NOT HISPANIC OR LATINO,,G2,157,,,,No,,,Post,275,negative,,WHITE,R0,open,9.066666667,25,90
+74,USC/UPSC,Stage IV,,NOT HISPANIC OR LATINO,0.1014,High Grade,173,,,,No,,,Post,27,positive,,WHITE,RX,open,0.933333333,100,75
+62,USC/UPSC,Stage IC,,NOT HISPANIC OR LATINO,0.3811,High Grade,163,,,,No,,,Post,31,,,WHITE,R0,Minimally Invasive,1.033333333,66,84
+61,UEC,Stage IIB,,NOT HISPANIC OR LATINO,0.106,G2,174,,,,No,,,Post,167,negative,,WHITE,R0,open,5.533333333,100,130
+51,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.5101,G3,155,,,,No,,,Peri,94,positive,,WHITE,R0,open,3.133333333,42,89
+44,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0635,G1,169,,,,No,,,Post,32,negative,,WHITE,R0,open,1.066666667,12,102
+54,UEC,Stage II,,NOT HISPANIC OR LATINO,0.0061,G2,172,,,,No,,,Post,28,negative,,WHITE,R0,open,0.966666667,77,117
+39,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0525,G1,159,,,,No,,,Indetermite,38,negative,,WHITE,R0,open,1.266666667,19,105
+70,USC/UPSC,Stage IIIC,,NOT HISPANIC OR LATINO,0.427,High Grade,162,,,,No,,,Post,43,negative,,WHITE,R0,open,1.433333333,100,59
+78,UEC,Stage IIIC,,NOT HISPANIC OR LATINO,0.3077,G3,173,,,,No,,,Post,,,,WHITE,R0,open,,73,105
+54,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0001,G2,160,,,,No,,,Post,1774,negative,,WHITE,R0,open,58.96666667,18,101
+56,UEC,Stage IB,,NOT HISPANIC OR LATINO,0,G1,156,,,,No,,,Post,961,negative,,WHITE,RX,open,32.03333333,8,87
+51,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0006,G3,157,,,,No,,,Indetermite,525,negative,,WHITE,R0,Minimally Invasive,17.5,8,65
+48,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.0001,G3,161,,,,No,,,Indetermite,,negative,,WHITE,R0,open,,90,64
+67,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0392,G2,167,,,,No,,,Post,279,negative,,WHITE,R0,open,9.266666667,13,94
+70,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0342,G2,152,,,,No,,,Post,558,negative,,WHITE,R0,Minimally Invasive,18.6,93,53
+76,USC/UPSC,Stage IIIC,,HISPANIC OR LATINO,0.854,High Grade,162,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,25,95
+59,UEC,Stage IIA,,NOT HISPANIC OR LATINO,0.035,G3,176,,,,No,,,Post,170,negative,,WHITE,R0,open,5.7,41,102
+69,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0341,G2,162,,,,No,,,Post,204,negative,,WHITE,R0,Minimally Invasive,6.8,8,110
+78,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0001,G1,161,,,,No,,,Post,43,negative,,WHITE,R0,Minimally Invasive,1.433333333,14,81
+58,UEC,Stage IB,,NOT HISPANIC OR LATINO,0,G3,155,,,,No,,,Post,357,negative,,WHITE,R0,Minimally Invasive,11.86666667,67,68
+68,UEC,Stage IA,,NOT HISPANIC OR LATINO,0,G2,158,,,,No,,,Post,159,negative,,WHITE,R0,Minimally Invasive,5.3,21,79
+61,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0052,G1,167,,,,No,,,Post,438,negative,,WHITE,R0,open,14.53333333,57,96
+74,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.2631,G2,161,,,,No,,,Post,43,,,WHITE,R0,Minimally Invasive,1.466666667,0,97
+81,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0341,G1,172,,,,No,,,Post,58,negative,,WHITE,R0,open,1.9,22,123
+56,UEC,Stage II,,NOT HISPANIC OR LATINO,0.0454,G1,163,,,,No,,,Post,305,negative,,WHITE,R0,Minimally Invasive,10.16666667,24,142
+46,UEC,Stage IA,,NOT HISPANIC OR LATINO,0,G2,166,,,,No,,,Peri,26,negative,,,R0,open,0.866666667,0,134
+54,UEC,Stage IA,,NOT HISPANIC OR LATINO,0,G2,169,,,,No,,,Peri,5165,negative,,WHITE,R0,Minimally Invasive,171.9666667,12,68
+58,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.2392,G2,165,,,,No,,,Pre,133,negative,,WHITE,R0,Minimally Invasive,4.5,5,126
+59,UEC,Stage IA,,NOT HISPANIC OR LATINO,0,G1,160,,,,No,,,Post,37,negative,,WHITE,R0,open,1.233333333,18,109
+67,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0464,G2,159,,,,No,,,Post,52,,,WHITE,R0,Minimally Invasive,1.666666667,25,83
+53,UEC,Stage IIIC2,,NOT HISPANIC OR LATINO,0.0009,G2,168,,,,No,,,Post,249,negative,,WHITE,R0,open,8.3,100,87
+53,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0002,G1,178,,,,No,,,Post,,negative,,WHITE,R0,open,,17,126
+74,USC/UPSC,Stage IA,,NOT HISPANIC OR LATINO,0.4092,G3,151,,,,No,,,Post,68,negative,,WHITE,R0,open,2.266666667,16,93
+72,EC,Stage IVB,,NOT HISPANIC OR LATINO,0.2859,G3,160,,,,No,,,Post,,positive,,WHITE,R0,open,,0,98
+66,USC/UPSC,Stage IIIC,,NOT HISPANIC OR LATINO,0.1787,G3,159,,,,No,,,Post,44,positive,,WHITE,R0,open,1.466666667,95,87
+67,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0562,G3,168,,,,No,,,Post,,negative,,WHITE,R0,open,,85,97
+60,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0341,G1,159,,,,No,,,Post,,negative,,WHITE,R0,open,,33,90
+77,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.4475,G3,157,,,,No,,,Post,,negative,,WHITE,R0,open,,5,117
+61,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0002,G1,161,,,,No,,,Post,,negative,,WHITE,R0,open,,8,80
+60,UEC,Stage IA,,NOT HISPANIC OR LATINO,0,G1,148,,,,No,,,Post,,,,WHITE,R0,Minimally Invasive,,5,96
+70,UEC,Stage IIIC,,NOT HISPANIC OR LATINO,0,G3,165,,,,No,,,Post,,negative,,WHITE,R0,open,,85,85
+70,EC,Stage IB,,NOT HISPANIC OR LATINO,0.0916,G3,171,,,,No,,,Post,,negative,,WHITE,R0,open,,17,73
+50,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.9268,G3,173,,,,Yes,,,Post,,negative,,WHITE,R0,open,,20,143
+53,UEC,Stage IIIC,,NOT HISPANIC OR LATINO,0.2916,G3,168,,,,No,,,Post,,positive,,WHITE,R0,open,,94,80
+65,USC/UPSC,Stage IB,,NOT HISPANIC OR LATINO,0.2241,G3,164,,,,No,,,Peri,,negative,,WHITE,R0,open,,8,133
+77,UEC,Stage IIIC1,,NOT HISPANIC OR LATINO,0.0399,G3,152,,,,No,,,Post,,positive,,WHITE,R0,open,,17,57
+81,UEC,Stage IVB,,NOT HISPANIC OR LATINO,0.929,G3,168,,,,No,,,Post,,positive,,WHITE,R0,open,,41,86
+71,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.7039,G3,168,,,,No,,,Post,,negative,,WHITE,R0,open,,11,76
+61,USC/UPSC,Stage IA,NO,NOT HISPANIC OR LATINO,0.5437,G3,159,NO,,No,Yes,Never Used,NO,Post,,negative,2,WHITE,R0,open,,0,59
+61,USC/UPSC,Stage IIIC,NO,NOT HISPANIC OR LATINO,0.2228,G3,161,NO,,No,No,Never Used,YES,Post,,negative,4+,WHITE,R0,open,,32,121
+,UEC,Stage IC,,,0.0008,G3,152,,,,No,,,Post,,,,,RX,,,,77
+84,UEC,Stage IIIC,,,0.7258,G3,,,,,No,,,Post,,,,,RX,open,,70,
+69,UEC,Stage IB,,,0.6253,G3,,,,,No,,,Post,,negative,,,RX,Minimally Invasive,,31,66
+,UEC,Stage IB,,,0.0048,G3,,,,,No,,,Post,,negative,,,RX,open,,8,
+55,UEC,Stage IB,,,0.0003,G3,,,,,No,,,Post,,negative,,,RX,open,,21,
+49,UEC,Stage IVA,,,0.012,G3,,,,,No,,,Pre,,,,,R1,open,,73.3,
+87,UEC,Stage IB,,,0.0341,G3,,,,,No,,,Post,,negative,,,RX,open,,25,
+60,UEC,Stage IIIC,,,0.5377,G3,168,,,,No,,,Post,,,,,RX,open,,86,95
+64,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0346,G3,173,,,,No,,,,358,,,WHITE,R0,,11.9,15.6,107
+55,EC,Stage IIB,,NOT HISPANIC OR LATINO,0.0001,G3,171,,,,No,,,,,,,WHITE,R0,,,15.8,93
+63,UEC,Stage IIB,,NOT HISPANIC OR LATINO,0.0005,G2,155,,,,No,,,,,negative,,WHITE,R0,,,17,125
+38,UEC,Stage IB,,NOT HISPANIC OR LATINO,0,G2,171,,,,No,,,,,,,WHITE,R0,,,8.6,144
+63,USC/UPSC,Stage IIIC,,NOT HISPANIC OR LATINO,0.1974,G3,173,,,,No,,,Post,38,,,WHITE,R0,Minimally Invasive,1.3,3,71
+68,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.5988,G3,166,,,,No,,,Post,,,,BLACK OR AFRICAN AMERICAN,RX,Minimally Invasive,,1.03,122
+51,USC/UPSC,Stage IIIC,,HISPANIC OR LATINO,0.3625,G3,156,,,,No,,,Post,,,,AMERICAN INDIAN OR ALASKA TIVE,R2,Minimally Invasive,,96,62
+67,UEC,Stage IVB,,NOT HISPANIC OR LATINO,0.3324,G3,160,,,,No,,,Post,,,,WHITE,RX,Minimally Invasive,,0,93
+64,USC/UPSC,Stage IIB,,NOT HISPANIC OR LATINO,0.6407,G3,160,,,,No,,,Post,,positive,,WHITE,RX,Minimally Invasive,,50,85
+40,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0112,G3,163,,,,No,,,Pre,,negative,,WHITE,R0,open,,14,
+76,USC/UPSC,Stage IA,,NOT HISPANIC OR LATINO,0.5552,G3,,,,,No,,,Post,171,negative,,BLACK OR AFRICAN AMERICAN,R0,open,5.666666667,,65
+56,UEC,Stage IIIC,,NOT HISPANIC OR LATINO,0.2016,G3,174,,,,No,,,Post,,negative,,WHITE,R0,open,,90,114
+53,EC,Stage IV,,NOT HISPANIC OR LATINO,0.0002,G3,156,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,,89.1,76
+65,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.081,G3,173,,,,No,,,Post,,negative,,WHITE,RX,Minimally Invasive,,20,125
+61,USC/UPSC,Stage IB,YES,NOT HISPANIC OR LATINO,0.6129,G3,162,NO,Never Used,No,Yes,Never Used,NO,Post,,negative,4+,BLACK OR AFRICAN AMERICAN,R0,open,,1.92,78
+73,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.053,G2,153,,,,No,,,Post,,negative,,WHITE,R0,open,,33,62
+71,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0796,G3,161,,,,No,,,Post,,negative,,WHITE,R0,,,,90
+57,UEC,Stage II,,NOT HISPANIC OR LATINO,0.0005,G3,148,,,,No,,,Pre,,,,WHITE,R0,,,50,93
+63,USC/UPSC,Stage IIIC2,,,0.4065,G3,161,,,,No,,,Post,63,,,,R0,Minimally Invasive,2.066666667,100,79
+65,UEC,Stage IB,,,0.2798,G3,165,,,,No,,,Post,,,,,R0,Minimally Invasive,,60,95
+87,USC/UPSC,Stage IA,,,0.3002,G3,146,,,,No,,,Post,49,,,,R0,Minimally Invasive,1.6,40,58
+56,UEC,Stage IB,,,0.0002,G3,168,,,,No,,,Post,,negative,,,R0,open,,51,88
+58,UEC,Stage IB,,,0.0001,G3,156,,,,No,,,Post,,,,,R0,open,,51,84
+56,UEC,Stage II,,NOT HISPANIC OR LATINO,0.0499,G3,152,,,,No,,,Post,,,,ASIAN,R0,open,,49,53
+83,UEC,Stage IB,,,0.0004,G3,150,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,51,59
+36,UEC,Stage IIIA,,,0.0458,G3,152,,,,No,,,Pre,,negative,,,R0,Minimally Invasive,,100,56
+68,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.6535,G3,,,,,No,,,Post,,negative,,WHITE,R0,open,,51,
+69,USC/UPSC,Stage IA,,NOT HISPANIC OR LATINO,0.4929,G3,152,,,,No,,,Post,,negative,,ASIAN,R0,Minimally Invasive,,49,68
+73,USC/UPSC,Stage IVB,,,0.384,G3,152,,,,No,,,Post,,,,,R2,open,,51,66
+86,UEC,Stage IA,,,0.5218,G3,147,,,,No,,,Post,,,,,,open,,49,58
+72,UEC,Stage II,,,0,G3,150,,,,No,,,Post,,negative,,,,Minimally Invasive,,51,78
+51,UEC,Stage IIIC1,,,0.0242,G3,158,,,,No,,,Peri,,negative,,,R0,Minimally Invasive,,51,45
+58,UEC,Stage IB,,,0.0002,G3,164,,,,No,,,Post,,negative,,,R0,Minimally Invasive,,50,76
+80,EC,Stage IB,,,0.2176,G3,140,,,,No,,,Post,,negative,,,R0,Minimally Invasive,,51,78
+43,UEC,Stage IIIC2,,,0.05,G3,152,,,,No,,,Indetermite,,,,ASIAN,RX,open,,,53
+63,USC/UPSC,Stage IB,,,0.5055,G3,170,,,,No,,,Post,,,,,R0,Minimally Invasive,,51,93
+68,USC/UPSC,Stage II,,,0.471,G3,163,,,,No,,,Post,,,,,R0,Minimally Invasive,,0,65
+72,USC/UPSC,Stage IA,,,0.3475,G3,153,,,,No,,,Post,,,,,R0,Minimally Invasive,,,62
+80,UEC,Stage IA,,HISPANIC OR LATINO,0.0002,G3,145,,,,No,,,Post,,,,WHITE,R0,Minimally Invasive,,,44
+76,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0963,G3,159,,,,No,,,Post,,,,WHITE,R0,open,,49,110
+86,UEC,Stage II,,NOT HISPANIC OR LATINO,0.2201,G2,151,,,,Yes,,,Post,,negative,,WHITE,R0,Minimally Invasive,,96,85
+83,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0499,G3,160,,,,No,,,Post,,negative,,WHITE,R0,open,,38,49
+62,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.4314,G3,167,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,5,96
+51,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0347,G1,157,,,,No,,,Pre,,negative,,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,0,79
+67,UEC,Stage IA,,NOT HISPANIC OR LATINO,0,G1,165,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,0,103
+75,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0441,G2,165,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,11,71
+70,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.1841,G2,170,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,33,117
+52,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0005,G2,165,,,,No,,,Pre,,negative,,WHITE,R0,open,,76,69
+73,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.2352,G3,160,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,0,85
+74,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.055,G3,160,,,,Yes,,,Post,,negative,,WHITE,R0,Minimally Invasive,,58,105
+51,UEC,Stage II,,,0.0655,G2,173,,,,No,,,Post,,negative,,WHITE,R0,open,,83,73
+60,EC,Stage IIIA,,,0.324,G3,157,,,,No,,,Post,,positive,,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,33,71
+65,UEC,Stage IIIC1,,NOT HISPANIC OR LATINO,0.6229,G2,156,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,98,76
+54,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.9472,G1,158,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,32,72
+76,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.2584,G3,165,,,,Yes,,,Post,,negative,,WHITE,R0,Minimally Invasive,,98,81
+67,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.723,G3,165,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,R0,open,,33,93
+71,USC/UPSC,Stage IVB,,NOT HISPANIC OR LATINO,0.6302,G3,161,,,,No,,,Post,213,,,BLACK OR AFRICAN AMERICAN,R2,open,7.066666667,50,62
+68,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.081,G1,168,,,,No,,,Post,,positive,,WHITE,R0,Minimally Invasive,,10,70
+66,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0341,G2,160,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,94,90
+75,EC,Stage IIIC1,,NOT HISPANIC OR LATINO,0.1646,G3,165,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,59,79
+73,UEC,Stage IVB,,HISPANIC OR LATINO,0.5739,G3,149,,,,No,,,Post,,positive,,WHITE,R1,open,,62,81
+76,UEC,Stage IIIA,,NOT HISPANIC OR LATINO,0.1997,G2,160,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,25,69
+57,UEC,Stage IIIC2,,NOT HISPANIC OR LATINO,0.1423,G2,163,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,R0,open,,23,90
+82,EC,Stage IIIC2,,NOT HISPANIC OR LATINO,0.2899,G3,155,,,,No,,,Post,,positive,,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,38,63
+83,USC/UPSC,Stage IIIC1,,NOT HISPANIC OR LATINO,0.3487,G3,159,,,,Yes,,,Post,51,positive,,WHITE,R0,Minimally Invasive,1.733333333,45,81
+66,UEC,Stage IIIC1,,,0.6385,G3,165,,,,Yes,,,Post,,negative,,WHITE,R0,Minimally Invasive,,72,94
+60,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0013,G3,168,,,,Yes,,,Post,,negative,,WHITE,R0,Minimally Invasive,,50,49
+55,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0512,G3,152,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,20,110
+61,USC/UPSC,Stage IVB,,NOT HISPANIC OR LATINO,0.4427,G3,165,,,,No,,,Post,,positive,,BLACK OR AFRICAN AMERICAN,R2,Minimally Invasive,,,100
+56,EC,Stage IB,,NOT HISPANIC OR LATINO,0.4278,G3,175,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,14,79
+63,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.0803,G3,150,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,10,57
+61,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.6205,G3,155,,,,No,,,Post,,negative,,WHITE,R0,Minimally Invasive,,29,79
+82,USC/UPSC,Stage IA,,NOT HISPANIC OR LATINO,0.5223,G3,161,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,28,92
+64,USC/UPSC,Stage IVB,,NOT HISPANIC OR LATINO,0.6635,G3,168,,,,No,,,Post,,positive,,WHITE,R0,Minimally Invasive,,95,63
+56,USC/UPSC,Stage IIIC1,NO,NOT HISPANIC OR LATINO,0.2889,G3,164,NO,,No,No,Never Used,NO,Post,,positive,2,BLACK OR AFRICAN AMERICAN,RX,Minimally Invasive,,99,114
+75,UEC,Stage IA,YES,NOT HISPANIC OR LATINO,0.3713,G3,166,NO,,,Yes,Never Used,YES,Post,,negative,1,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,14,108
+83,UEC,Stage IA,NO,NOT HISPANIC OR LATINO,0.0001,G1,157,NO,Never Used,No,No,Never Used,YES,Post,,negative,4+,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,0,67
+78,UEC,Stage IA,NO,NOT HISPANIC OR LATINO,0.156,G3,165,YES,Never Used,No,Yes,Never Used,YES,Post,,,4+,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,33,74
+67,UEC,Stage IIIC2,YES,NOT HISPANIC OR LATINO,0.2869,G3,161,NO,Former User,No,No,Never Used,YES,Post,,,4+,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,41,70
+72,UEC,Stage IB,NO,NOT HISPANIC OR LATINO,0.0341,G3,161,NO,,,No,,YES,Post,,negative,4+,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,52,83
+87,UEC,Stage II,NO,NOT HISPANIC OR LATINO,0.7701,G3,162,NO,Never Used,No,Yes,Never Used,NO,Post,,,2,BLACK OR AFRICAN AMERICAN,R0,open,,22.5,106
+82,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0044,G3,155,,,,Yes,,,Post,,,,WHITE,R0,Minimally Invasive,,33,52
+60,EC,Stage IA,,NOT HISPANIC OR LATINO,0.2356,G3,145,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,R0,open,,0,100
+55,UEC,Stage IA,,NOT HISPANIC OR LATINO,0,G3,158,,,,No,,,Peri,,negative,,WHITE,R0,open,,0,135
+66,EC,Stage IB,,NOT HISPANIC OR LATINO,0.5059,G3,168,,,,No,,,Post,42,negative,,WHITE,R0,open,1.366666667,33,166
+44,UEC,Stage IIIC,,,0.1856,G3,163,,,,No,,,Pre,,,,WHITE,R2,open,,100,112
+56,UEC,Stage IVB,,NOT HISPANIC OR LATINO,0.0005,G3,160,,,,Yes,,,Post,,positive,,WHITE,R0,open,,100,92
+74,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.0456,G3,165,,,,No,,,Post,,negative,,WHITE,R0,open,,74,95
+68,USC/UPSC,Stage IA,,NOT HISPANIC OR LATINO,0.3318,G3,168,,,,No,,,Post,,negative,,,R0,open,,0,93
+71,USC/UPSC,Stage IIB,,,0.5549,G3,160,,,,No,,,Post,87,negative,,BLACK OR AFRICAN AMERICAN,R0,open,2.9,75,83
+58,USC/UPSC,Stage IIIA,,NOT HISPANIC OR LATINO,0.527,G3,154,,,,No,,,Post,54,positive,,WHITE,R0,open,1.8,13,89
+63,USC/UPSC,Stage IIIA,,NOT HISPANIC OR LATINO,0.6687,G3,183,,,,No,,,Post,,negative,,WHITE,R0,open,,93,96
+64,UEC,Stage IC,,NOT HISPANIC OR LATINO,0.0344,G3,165,,,,Yes,,,Post,,,,BLACK OR AFRICAN AMERICAN,R0,open,,59,74
+64,USC/UPSC,Stage II,,NOT HISPANIC OR LATINO,0.3156,G3,173,,,,No,,,Post,58,positive,,WHITE,R0,open,1.9,26,99
+79,UEC,Stage IA,,NOT HISPANIC OR LATINO,0.3709,G3,175,,,,No,,,Post,,negative,,WHITE,R0,open,,44,99
+68,USC/UPSC,Stage IA,,NOT HISPANIC OR LATINO,0.4828,High Grade,174,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,R0,open,,0,105
+57,USC/UPSC,Stage IIIC2,,NOT HISPANIC OR LATINO,0.513,High Grade,170,,,,No,,,Post,,negative,,WHITE,R0,open,,92,90
+71,UEC,Stage IB,,NOT HISPANIC OR LATINO,0.2775,G3,,,,,No,,,Post,,negative,,BLACK OR AFRICAN AMERICAN,R0,open,,18,95
+61,USC/UPSC,Stage IIIC1,NO,NOT HISPANIC OR LATINO,0.4885,G3,150,NO,,,No,Never Used,YES,Post,,negative,1,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,93,121
+60,USC/UPSC,Stage IVB,,NOT HISPANIC OR LATINO,0.733,G3,171,,,,No,,,Post,,positive,,WHITE,,Minimally Invasive,,95,99
+55,USC/UPSC,Stage IA,,HISPANIC OR LATINO,0.4859,G1,165,,,,Yes,,,Post,,,,WHITE,R0,open,,21,96
+69,USC/UPSC,Stage IV,,NOT HISPANIC OR LATINO,0.7216,High Grade,163,,,,Yes,,,Post,,positive,,WHITE,RX,open,,75,55
+72,USC/UPSC,Stage IB,NO,,0.3267,G3,162,NO,Never Used,No,No,Never Used,YES,Post,,positive,2,,R0,Minimally Invasive,,75,94
+76,USC/UPSC,Stage IA,NO,,0.5404,G3,170,NO,Never Used,No,No,Never Used,NO,Post,,negative,1,,R0,Minimally Invasive,,25,66
+72,USC/UPSC,Stage IB,NO,NOT HISPANIC OR LATINO,0.6446,G3,164,NO,,No,No,Never Used,YES,Post,,positive,2,WHITE,R0,Minimally Invasive,,75,126
+63,USC/UPSC,Stage IIIA,NO,NOT HISPANIC OR LATINO,0.1501,G3,151,NO,Former User,No,No,Never Used,NO,Post,,positive,3,WHITE,R0,open,,75,61
+72,USC/UPSC,Stage II,,NOT HISPANIC OR LATINO,0.42,G3,163,,,,No,,,Post,,,,BLACK OR AFRICAN AMERICAN,,,,,87
+68,USC/UPSC,Stage IA,NO,NOT HISPANIC OR LATINO,0.0006,G3,,NO,Former User,,No,Never Used,YES,Post,,negative,2,BLACK OR AFRICAN AMERICAN,R0,open,,38,
+62,USC/UPSC,Stage IA,YES,NOT HISPANIC OR LATINO,0.4382,G3,158,,Never Used,No,No,Never Used,YES,Post,,negative,4+,BLACK OR AFRICAN AMERICAN,R0,open,,47,79
+73,USC/UPSC,Stage IA,NO,NOT HISPANIC OR LATINO,0.6161,G3,,NO,Never Used,No,No,Never Used,YES,Post,,negative,4+,BLACK OR AFRICAN AMERICAN,R0,open,,13,
+60,USC/UPSC,Stage IA,NO,NOT HISPANIC OR LATINO,0.4091,G3,,NO,Former User,No,No,Never Used,NO,Post,,negative,2,BLACK OR AFRICAN AMERICAN,R0,open,,,
+70,UEC,Stage I,NO,NOT HISPANIC OR LATINO,0,G2,,NO,Never Used,No,No,Never Used,YES,Post,,negative,1,BLACK OR AFRICAN AMERICAN,R0,open,,,
+74,UEC,Stage IA,NO,NOT HISPANIC OR LATINO,0.0516,G2,,NO,Former User,No,No,Never Used,YES,Post,,positive,2,BLACK OR AFRICAN AMERICAN,R0,open,,,
+57,EC,Stage II,YES,NOT HISPANIC OR LATINO,0,G2,162,NO,Never Used,No,No,Never Used,YES,Post,,,2,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,22,79
+57,UEC,Stage II,NO,NOT HISPANIC OR LATINO,0.0001,G1,170,NO,Never Used,No,No,Never Used,NO,Post,,,0,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,50,146
+55,UEC,Stage IIIA,NO,NOT HISPANIC OR LATINO,0.0003,G1,160,NO,,,No,Never Used,NO,Post,,,1,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,10,83
+61,UEC,Stage IIIB,YES,NOT HISPANIC OR LATINO,0.0001,G2,168,NO,Never Used,No,No,Never Used,YES,Post,,,4+,BLACK OR AFRICAN AMERICAN,RX,Minimally Invasive,,13,100
+86,UEC,Stage IIIB,NO,NOT HISPANIC OR LATINO,0.1992,G2,163,NO,,,No,Never Used,YES,Post,,,4+,BLACK OR AFRICAN AMERICAN,R0,Minimally Invasive,,86,76
+85,USC/UPSC,Stage IIIA,NO,NOT HISPANIC OR LATINO,0.6549,G3,168,NO,Never Used,,No,Never Used,NO,Post,,negative,0,BLACK OR AFRICAN AMERICAN,,Minimally Invasive,,50,75
+64,UEC,Stage IB,NO,NOT HISPANIC OR LATINO,0.0275,G1,66,NO,Never Used,No,No,Never Used,YES,,,negative,2,BLACK OR AFRICAN AMERICAN,R0,open,,75,93
+61,UEC,Stage IB,NO,NOT HISPANIC OR LATINO,0.0466,G2,168,NO,Former User,,No,Never Used,YES,Post,,negative,1,BLACK OR AFRICAN AMERICAN,R0,open,,62.5,132
+73,UEC,Stage IB,NO,NOT HISPANIC OR LATINO,0.4226,G3,167,NO,,,No,,YES,Post,,negative,2,BLACK OR AFRICAN AMERICAN,RX,open,,50,88
+77,UEC,Stage IB,NO,NOT HISPANIC OR LATINO,0.0488,G3,167,NO,,,No,,YES,Post,,,4+,BLACK OR AFRICAN AMERICAN,,open,,50,129
